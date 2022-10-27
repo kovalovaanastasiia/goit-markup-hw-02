@@ -7,7 +7,6 @@
     --secondary-color:#FFFFFF;
     --secondary-text-color: #757575;
     --shadow-color: rgba(255, 255, 255, 0.6);
-     
 }
 /* --------index.html--------- */
 body {
@@ -43,8 +42,11 @@ body {
 .header-black-logo {
     color: var(--main-color);
 }
-.navigation-list,
-.header-adress {
+.studio,
+.portfolio,
+.contacts,
+.header-mail,
+.header-phone {
     cursor: pointer;
 }
 .studio, .portfolio, .contacts {
